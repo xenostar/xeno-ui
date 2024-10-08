@@ -3,6 +3,7 @@
 
 # Allow the .gitignore file
 !.gitignore
+!README.md
 
 # Allow the WTF and Interface directories inside _retail_
 !/_retail_/
