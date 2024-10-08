@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow the .gitignore file
+!.gitignore
+
+# Allow the WTF and Interface directories inside _retail_
+!/_retail_/
+!/_retail_/WTF/
+
+# Allow all files within the WTF and Interface directories
+!/_retail_/WTF/**
