@@ -6,7 +6,12 @@
 
 # Allow the WTF and Interface directories inside _retail_
 !/_retail_/
+!/_retail_/Interface/
+!/_retail_/Interface/Tooltips/
+!/_retail_/Screenshots/
 !/_retail_/WTF/
 
 # Allow all files within the WTF and Interface directories
+!/_retail_/Interface/Tooltips/**
+!/_retail_/Screenshots/**
 !/_retail_/WTF/**
