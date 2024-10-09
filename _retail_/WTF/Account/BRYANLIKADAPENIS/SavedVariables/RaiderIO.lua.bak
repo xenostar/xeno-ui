@@ -1,0 +1,81 @@
+
+RaiderIO_Config = {
+["replayAlpha"] = 1,
+["enableKeystoneTooltips"] = true,
+["enableCombatLogTracking"] = false,
+["enableReplay"] = true,
+["enableLFGDropdown"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["lock"] = false,
+["hide"] = true,
+},
+["showMainsScore"] = true,
+["showRaidEncountersInProfile"] = true,
+["showAverageScore"] = true,
+["enableWhoMessages"] = true,
+["useEnglishAbbreviations"] = false,
+["disableScoreColors"] = false,
+["showMainBestScore"] = true,
+["allowClientToControlCombatLog"] = true,
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16,
+["point"] = "TOPLEFT",
+},
+["replayBackground"] = {
+["a"] = 0.5,
+["b"] = 0,
+["g"] = 0,
+["r"] = 0,
+},
+["replaySelection"] = "user_best_replay",
+["mplusHeadlineMode"] = 0,
+["enableWhoTooltips"] = true,
+["inverseProfileModifier"] = false,
+["enableGuildTooltips"] = true,
+["showScoreInCombat"] = false,
+["enableClientEnhancements"] = true,
+["hidePersonalRaiderIOProfile"] = false,
+["positionProfileAuto"] = true,
+["showRoleIcons"] = true,
+["enableFriendsTooltips"] = true,
+["showWarbandScore"] = true,
+["showDropDownCopyURL"] = true,
+["enableProfileModifier"] = true,
+["enableLFGTooltips"] = true,
+["showScoreModifier"] = false,
+["showRaiderIOProfile"] = true,
+["lockProfile"] = false,
+["showSimpleScoreColors"] = true,
+["enableUnitTooltips"] = true,
+["showClientGuildBest"] = true,
+}
+RaiderIO_LastCharacter = "us-Calisto-dragonmaw"
+RaiderIO_MissingCharacters = {
+["us-Branches-mugthol"] = true,
+["us-Cynthea-dragonmaw"] = true,
+["us-Happysquid-antonidas"] = true,
+["us-Baelzheron-mugthol"] = true,
+["us-Mitooshort-akama"] = true,
+["us-Nezul-akama"] = true,
+["us-Slugfu-nazgrel"] = true,
+["us-Rreekk-dragonmaw"] = true,
+["us-Taria-dragonmaw"] = true,
+["us-Venerable-mugthol"] = true,
+["us-Borjigin-dragonmaw"] = true,
+["us-Nikna-mugthol"] = true,
+["us-Saradda-uldum"] = true,
+["us-Cybael-akama"] = true,
+["us-Therion-mugthol"] = true,
+["us-Daegon-akama"] = true,
+["us-Soloa-dragonmaw"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}

@@ -16,7 +16,7 @@ ElvUI_BuffHighlight: disabled
 kExtraBossFrames: disabled
 ElvUI_Options: enabled
 WeakAurasCompanion: enabled
-WeakAurasArchive: disabled
+WeakAurasArchive: enabled
 WeakAurasOptions: disabled
 WeakAurasModelPaths: disabled
 WeakAurasTemplates: disabled
@@ -66,3 +66,12 @@ LittleWigs_WrathOfTheLichKing: enabled
 SharedMedia: enabled
 BugSack: disabled
 !BugGrabber: disabled
+RaiderIO_DB_TW_R: disabled
+RaiderIO_DB_TW_M: disabled
+RaiderIO_DB_TW_F: disabled
+RaiderIO_DB_KR_R: disabled
+RaiderIO_DB_KR_M: disabled
+RaiderIO_DB_KR_F: disabled
+RaiderIO_DB_EU_R: disabled
+RaiderIO_DB_EU_M: disabled
+RaiderIO_DB_EU_F: disabled
