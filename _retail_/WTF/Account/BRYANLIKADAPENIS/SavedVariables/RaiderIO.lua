@@ -24,17 +24,17 @@ RaiderIO_Config = {
 ["x"] = -16,
 ["point"] = "TOPLEFT",
 },
-["enableUnitTooltips"] = true,
+["replaySelection"] = "user_best_replay",
 ["showSimpleScoreColors"] = true,
 ["enableWhoTooltips"] = true,
-["replaySelection"] = "user_best_replay",
 ["showRaiderIOProfile"] = true,
+["mplusHeadlineMode"] = 0,
 ["enableGuildTooltips"] = true,
 ["showScoreModifier"] = false,
 ["enableLFGTooltips"] = true,
-["mplusHeadlineMode"] = 0,
-["enableFriendsTooltips"] = true,
 ["showRoleIcons"] = true,
+["enableFriendsTooltips"] = true,
+["enableUnitTooltips"] = true,
 ["positionProfileAuto"] = true,
 ["showWarbandScore"] = true,
 ["showDropDownCopyURL"] = true,
@@ -54,11 +54,6 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Calisto-dragonmaw"
 RaiderIO_MissingCharacters = {
-["us-Zarath-korialstrasz"] = true,
-["us-Stigma-uldum"] = true,
-["us-Lespink-antonidas"] = true,
-["us-Nezul-akama"] = true,
-["us-Rreekk-dragonmaw"] = true,
 }
 RaiderIO_MissingServers = {
 }

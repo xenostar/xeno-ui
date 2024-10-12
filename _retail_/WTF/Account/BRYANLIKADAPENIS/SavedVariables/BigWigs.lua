@@ -74,8 +74,8 @@ BigWigs3DB = {
 ["expHeight"] = 10,
 ["texture"] = "ElvUI Blank",
 ["emphasizeGrowup"] = true,
-["expWidth"] = 247,
 ["spacing"] = 15,
+["expWidth"] = 247,
 ["emphasize"] = false,
 ["fontName"] = "Expressway",
 ["expPosition"] = {
@@ -93,29 +93,29 @@ nil,
 },
 ["XenoUI"] = {
 ["barStyle"] = "ElvUI",
-["fontSize"] = 13,
+["emphasize"] = false,
 ["visibleBarLimit"] = 15,
 ["growup"] = true,
-["fontName"] = "Expressway",
-["texture"] = "ElvUI Blank",
-["normalWidth"] = 247,
-["emphasizeGrowup"] = true,
-["spacing"] = 4,
-["expWidth"] = 247,
 ["normalHeight"] = 20,
-["emphasize"] = false,
-["expPosition"] = {
-nil,
-nil,
--139,
-361,
-},
 ["normalPosition"] = {
 nil,
 nil,
 -389,
 361,
 },
+["expWidth"] = 247,
+["emphasizeGrowup"] = true,
+["normalWidth"] = 247,
+["spacing"] = 4,
+["expPosition"] = {
+nil,
+nil,
+-139,
+361,
+},
+["fontName"] = "Expressway",
+["fontSize"] = 13,
+["texture"] = "ElvUI Blank",
 },
 },
 },
@@ -123,7 +123,7 @@ nil,
 },
 ["BigWigs_Plugins_AutoReply"] = {
 },
-["BigWigs_Plugins_Proximity"] = {
+["BigWigs_Plugins_InfoBox"] = {
 },
 ["BigWigs_Plugins_Messages"] = {
 ["profiles"] = {
@@ -137,11 +137,11 @@ nil,
 },
 },
 },
-["BigWigs_Plugins_InfoBox"] = {
-},
-["BigWigs_Plugins_Pull"] = {
+["BigWigs_Plugins_Proximity"] = {
 },
 ["BigWigs_Plugins_Raid Icons"] = {
+},
+["BigWigs_Plugins_Pull"] = {
 },
 },
 ["profileKeys"] = {

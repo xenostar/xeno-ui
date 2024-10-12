@@ -14,7 +14,7 @@ ElvUI_VisualAuraTimers: disabled
 ElvUI_SecondsToBuff: disabled
 ElvUI_BuffHighlight: disabled
 kExtraBossFrames: disabled
-ElvUI_Options: enabled
+ElvUI_Options: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
 WeakAurasOptions: disabled
@@ -22,7 +22,7 @@ WeakAurasModelPaths: disabled
 WeakAurasTemplates: disabled
 RXPGuides: disabled
 ElvUI_Libraries: enabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 AdvancedInterfaceOptions: disabled
 Details_Vanguard: disabled
 Details_TinyThreat: disabled
@@ -75,3 +75,5 @@ RaiderIO_DB_KR_F: disabled
 RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
+RaiderIO_DB_US_R: disabled
+RaiderIO_DB_US_F: disabled

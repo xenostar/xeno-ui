@@ -13,3 +13,10 @@ X: 68
 Y: -42
 W: 261
 H: 590
+Frame: PlaterOptionsPanelFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 2
+Y: 2
+W: 1100
+H: 670

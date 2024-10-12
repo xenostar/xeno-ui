@@ -56,8 +56,11 @@ OmniCDDB = {
 ["reverseFill"] = false,
 },
 },
-["spellGlow"] = {
-["*"] = false,
+["manualPos"] = {
+[5] = {
+["y"] = 384.2399914115667,
+["x"] = 921.3600379997479,
+},
 },
 ["spells"] = {
 ["431416"] = true,
@@ -128,11 +131,8 @@ OmniCDDB = {
 ["priority"] = {
 ["consumable"] = 100,
 },
-["manualPos"] = {
-[5] = {
-["y"] = 384.2399914115667,
-["x"] = 921.3600379997479,
-},
+["spellGlow"] = {
+["*"] = false,
 },
 ["frame"] = {
 ["cc"] = 2,
