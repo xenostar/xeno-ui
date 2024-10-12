@@ -13,12 +13,10 @@ A complete backup of Xenostar's WoW UI.
 - Dialogue UI
 - ElvUI
 - ElvUI Kringels MediaTags
-- GTFO
-- Immersion
 - LittleWigs
 - OmniCD - Party Cooldown Tracker
-- Pawn
 - Plater Nameplates
+- Raider.IO Mythic Plus, Raid Progress, and Recruitment
 - SharedMedia
 - Simulationcraft
 - WeakAuras
