@@ -53,14 +53,14 @@ BigWigs3DB = {
 ["iconGrowDirection"] = "RIGHT",
 },
 ["XenoUI"] = {
-["iconOffsetX"] = 5,
+["iconFontName"] = "Expressway",
 ["iconCooldownEdge"] = false,
 ["textFontName"] = "Expressway",
 ["iconHeight"] = 12,
-["iconFontName"] = "Expressway",
+["iconSpacing"] = 0,
 ["iconExpireGlow"] = false,
 ["iconAutoScale"] = false,
-["iconSpacing"] = 0,
+["iconOffsetX"] = 5,
 },
 },
 },
@@ -74,8 +74,8 @@ BigWigs3DB = {
 ["expHeight"] = 10,
 ["texture"] = "ElvUI Blank",
 ["emphasizeGrowup"] = true,
-["spacing"] = 15,
 ["expWidth"] = 247,
+["spacing"] = 15,
 ["emphasize"] = false,
 ["fontName"] = "Expressway",
 ["expPosition"] = {
@@ -103,10 +103,10 @@ nil,
 -389,
 361,
 },
-["expWidth"] = 247,
-["emphasizeGrowup"] = true,
 ["normalWidth"] = 247,
+["emphasizeGrowup"] = true,
 ["spacing"] = 4,
+["expWidth"] = 247,
 ["expPosition"] = {
 nil,
 nil,
@@ -121,9 +121,11 @@ nil,
 },
 ["LibDualSpec-1.0"] = {
 },
-["BigWigs_Plugins_AutoReply"] = {
+["BigWigs_Plugins_Raid Icons"] = {
 },
 ["BigWigs_Plugins_InfoBox"] = {
+},
+["BigWigs_Plugins_Proximity"] = {
 },
 ["BigWigs_Plugins_Messages"] = {
 ["profiles"] = {
@@ -137,11 +139,9 @@ nil,
 },
 },
 },
-["BigWigs_Plugins_Proximity"] = {
-},
-["BigWigs_Plugins_Raid Icons"] = {
-},
 ["BigWigs_Plugins_Pull"] = {
+},
+["BigWigs_Plugins_AutoReply"] = {
 },
 },
 ["profileKeys"] = {

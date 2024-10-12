@@ -12,8 +12,8 @@ WQTrackerDB = {
 [2274] = 0.95,
 [1550] = 1,
 [876] = 0.9,
-[619] = 0.3,
 [1978] = 0.85,
+[619] = 0.3,
 },
 ["world_map_hubenabled"] = {
 [875] = true,
@@ -21,8 +21,8 @@ WQTrackerDB = {
 [2274] = true,
 [1550] = true,
 [876] = true,
-[619] = true,
 [1978] = true,
+[619] = true,
 },
 ["player_names"] = {
 ["Player-84-0AB9FFD2"] = {

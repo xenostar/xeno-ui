@@ -2,7 +2,6 @@
 ElvCharacterDB = {
 ["ConvertKeybindings"] = true,
 ["ChatEditHistory"] = {
-"/oc",
 "/p you guys in discord?",
 "/p oops* lol",
 "/p |cffa335ee|Hkeystone:180653:353:8:158:9:152:0|h[Keystone: Siege of Boralus (8)]|h|r",
@@ -16,12 +15,13 @@ ElvCharacterDB = {
 "/wa",
 "/run for _,d in pairs(WeakAurasSaved.displays) do if d.subRegions then for _,sr in ipairs(d.subRegions) do if sr.type==\"submodel\" then print(d.id) end end end end",
 "/details config",
-"/rl",
 "/simc",
 "/ec",
 "/raiderio",
 "almost 80!",
+"/xct",
 "/plater",
+"/rl",
 },
 ["ChatHistoryLog"] = {
 {

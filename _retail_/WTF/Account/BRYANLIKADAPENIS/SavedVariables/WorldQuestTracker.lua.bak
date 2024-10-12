@@ -9,19 +9,19 @@ WQTrackerDB = {
 ["world_map_hubscale"] = {
 [875] = 0.9,
 [947] = 1,
-[619] = 0.3,
+[1978] = 0.85,
 [1550] = 1,
 [876] = 0.9,
-[1978] = 0.85,
+[619] = 0.3,
 [2274] = 0.95,
 },
 ["world_map_hubenabled"] = {
 [875] = true,
 [947] = true,
-[619] = true,
+[1978] = true,
 [1550] = true,
 [876] = true,
-[1978] = true,
+[619] = true,
 [2274] = true,
 },
 ["player_names"] = {
@@ -41,44 +41,9 @@ WQTrackerDB = {
 },
 ["quests_all_characters"] = {
 ["Player-84-0AB9FFD2"] = {
-[82295] = {
-["expireAt"] = 1728226879,
-["rewardAmount"] = "5",
-["rewardTexture"] = 1045106,
-},
-[82291] = {
-["expireAt"] = 1728183679,
-["rewardAmount"] = "4",
-["rewardTexture"] = 1045110,
-},
-[82120] = {
-["expireAt"] = 1728226879,
-["rewardAmount"] = 30,
-["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-},
-[82300] = {
-["expireAt"] = 1728205279,
-["rewardAmount"] = "1",
-["rewardTexture"] = 667492,
-},
-[81828] = {
-["expireAt"] = 1728399619,
-["rewardAmount"] = "",
-["rewardTexture"] = 1519429,
-},
-[81811] = {
-["expireAt"] = 1728399619,
-["rewardAmount"] = "",
-["rewardTexture"] = 1519429,
-},
-[81815] = {
-["expireAt"] = 1728399619,
-["rewardAmount"] = "",
-["rewardTexture"] = 1519429,
-},
-[82298] = {
-["expireAt"] = 1728248479,
-["rewardAmount"] = "18",
+[82297] = {
+["expireAt"] = 1728788467,
+["rewardAmount"] = "17",
 ["rewardTexture"] = 2004597,
 },
 },
