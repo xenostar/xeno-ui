@@ -46,18 +46,18 @@ BigWigs3DB = {
 ["Default"] = {
 ["iconCooldownEdge"] = false,
 ["textFontName"] = "Expressway",
-["iconGrowDirectionStart"] = "RIGHT",
 ["iconOffsetX"] = 3,
-["iconSpacing"] = 0,
+["iconGrowDirectionStart"] = "RIGHT",
 ["iconFontName"] = "Expressway",
+["iconSpacing"] = 0,
 ["iconGrowDirection"] = "RIGHT",
 },
 ["XenoUI"] = {
-["iconFontName"] = "Expressway",
+["iconSpacing"] = 0,
 ["iconCooldownEdge"] = false,
 ["textFontName"] = "Expressway",
 ["iconHeight"] = 12,
-["iconSpacing"] = 0,
+["iconFontName"] = "Expressway",
 ["iconExpireGlow"] = false,
 ["iconAutoScale"] = false,
 ["iconOffsetX"] = 5,
@@ -68,32 +68,32 @@ BigWigs3DB = {
 ["profiles"] = {
 ["Default"] = {
 ["barStyle"] = "AddOnSkins Half-Bar",
-["normalWidth"] = 247,
-["growup"] = true,
-["normalHeight"] = 10,
-["expHeight"] = 10,
-["texture"] = "ElvUI Blank",
-["emphasizeGrowup"] = true,
-["expWidth"] = 247,
-["spacing"] = 15,
 ["emphasize"] = false,
+["growup"] = true,
 ["fontName"] = "Expressway",
-["expPosition"] = {
-nil,
-nil,
--140,
-355,
-},
+["expHeight"] = 10,
 ["normalPosition"] = {
 nil,
 nil,
 -389,
 356,
 },
+["emphasizeGrowup"] = true,
+["expWidth"] = 247,
+["spacing"] = 15,
+["normalHeight"] = 10,
+["expPosition"] = {
+nil,
+nil,
+-140,
+355,
+},
+["normalWidth"] = 247,
+["texture"] = "ElvUI Blank",
 },
 ["XenoUI"] = {
 ["barStyle"] = "ElvUI",
-["emphasize"] = false,
+["normalWidth"] = 247,
 ["visibleBarLimit"] = 15,
 ["growup"] = true,
 ["normalHeight"] = 20,
@@ -103,29 +103,25 @@ nil,
 -389,
 361,
 },
-["normalWidth"] = 247,
+["emphasize"] = false,
 ["emphasizeGrowup"] = true,
-["spacing"] = 4,
 ["expWidth"] = 247,
+["spacing"] = 4,
+["fontName"] = "Expressway",
 ["expPosition"] = {
 nil,
 nil,
 -139,
 361,
 },
-["fontName"] = "Expressway",
 ["fontSize"] = 13,
 ["texture"] = "ElvUI Blank",
 },
 },
 },
-["LibDualSpec-1.0"] = {
+["BigWigs_Plugins_AutoReply"] = {
 },
 ["BigWigs_Plugins_Raid Icons"] = {
-},
-["BigWigs_Plugins_InfoBox"] = {
-},
-["BigWigs_Plugins_Proximity"] = {
 },
 ["BigWigs_Plugins_Messages"] = {
 ["profiles"] = {
@@ -139,13 +135,18 @@ nil,
 },
 },
 },
+["BigWigs_Plugins_Proximity"] = {
+},
+["BigWigs_Plugins_InfoBox"] = {
+},
 ["BigWigs_Plugins_Pull"] = {
 },
-["BigWigs_Plugins_AutoReply"] = {
+["LibDualSpec-1.0"] = {
 },
 },
 ["profileKeys"] = {
 ["Calisto - Dragonmaw"] = "XenoUI",
+["Xenostar - Dragonmaw"] = "XenoUI",
 },
 ["profiles"] = {
 ["Default"] = {

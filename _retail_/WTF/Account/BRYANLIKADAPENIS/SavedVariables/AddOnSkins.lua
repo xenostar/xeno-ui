@@ -2,6 +2,7 @@
 AddOnSkinsDB = {
 ["profileKeys"] = {
 ["Calisto - Dragonmaw"] = "Default",
+["Xenostar - Dragonmaw"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {

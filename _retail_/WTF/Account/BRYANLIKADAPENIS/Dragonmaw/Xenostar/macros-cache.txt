@@ -1,0 +1,62 @@
+VER 3 0100000000000002 "Fury CDs" "134400"
+#showtooltip
+/use Recklessness
+/use Avatar
+/use 13
+/use 14
+END
+VER 3 010000000000000C "Heroic Leap Spam" "134400"
+#showtooltip
+/cast [@cursor] Heroic Leap
+END
+VER 3 0100000000000006 "Heroic Throw" "134400"
+#showtooltip
+/cast [@mouseover,harm,nodead] Heroic Throw; Heroic Throw
+END
+VER 3 0100000000000005 "Ignore Pain" "134400"
+#showtooltip
+/use Ignore Pain
+/use Shield Slam
+/use 14
+END
+VER 3 0100000000000009 "Prot CDs" "134400"
+#showtooltip
+/use Avatar
+/use 13
+END
+VER 3 0100000000000003 "Pummel" "134400"
+#showtooltip
+/cast [@focus,harm,exists][@target] Pummel
+END
+VER 3 010000000000000D "Ravager Spam" "134400"
+#showtooltip
+/cast [@cursor] Ravager
+END
+VER 3 010000000000000B "Revenge" "134400"
+#showtooltip
+/cast Revenge
+/cast Shield Block
+/startattack
+END
+VER 3 010000000000000A "Shield Slam" "134400"
+#showtooltip Shield Slam
+/cast Shield Block
+/cast Shield Slam
+END
+VER 3 010000000000000F "Stance Toggle" "134400"
+#showtooltip
+/cast [stance:1]!Battle Stance;!Defensive Stance
+END
+VER 3 0100000000000008 "Storm Bolt" "134400"
+#showtooltip
+/cast [@mouseover,harm,nodead] Storm Bolt; Storm Bolt
+END
+VER 3 0100000000000007 "Taunt" "134400"
+#showtooltip Taunt
+/cast [@mouseover,harm,nodead] Taunt; Taunt
+END
+VER 3 010000000000000E "Thunder Clap" "134400"
+#showtooltip Thunder Clap
+/cast Shield Block
+/cast Thunder Clap
+END

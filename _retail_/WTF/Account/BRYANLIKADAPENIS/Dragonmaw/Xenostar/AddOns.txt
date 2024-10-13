@@ -14,12 +14,12 @@ ElvUI_VisualAuraTimers: disabled
 ElvUI_SecondsToBuff: disabled
 ElvUI_BuffHighlight: disabled
 kExtraBossFrames: disabled
-ElvUI_Options: disabled
+ElvUI_Options: enabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
-WeakAurasOptions: disabled
-WeakAurasModelPaths: disabled
-WeakAurasTemplates: disabled
+WeakAurasOptions: enabled
+WeakAurasModelPaths: enabled
+WeakAurasTemplates: enabled
 RXPGuides: disabled
 ElvUI_Libraries: enabled
 WorldQuestTracker: enabled

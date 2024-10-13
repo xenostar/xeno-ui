@@ -2,6 +2,7 @@
 OmniCDDB = {
 ["profileKeys"] = {
 ["Calisto - Dragonmaw"] = "XenoUI",
+["Xenostar - Dragonmaw"] = "XenoUI",
 },
 ["namespaces"] = {
 ["LibDualSpec-1.0"] = {
@@ -56,8 +57,11 @@ OmniCDDB = {
 ["reverseFill"] = false,
 },
 },
-["spellGlow"] = {
-["*"] = false,
+["manualPos"] = {
+[5] = {
+["y"] = 384.2399914115667,
+["x"] = 921.3600379997479,
+},
 },
 ["spells"] = {
 ["431416"] = true,
@@ -85,13 +89,13 @@ OmniCDDB = {
 ["375087"] = false,
 ["403631"] = false,
 ["123904"] = false,
-["360952"] = false,
+["258860"] = false,
 ["31884"] = false,
 ["262161"] = false,
-["102543"] = false,
-["365350"] = false,
 ["114050"] = false,
-["258860"] = false,
+["365350"] = false,
+["102543"] = false,
+["360952"] = false,
 ["360194"] = false,
 ["50334"] = false,
 ["385627"] = false,
@@ -103,9 +107,9 @@ OmniCDDB = {
 ["12472"] = false,
 ["275699"] = false,
 ["391109"] = false,
-["106951"] = false,
 ["114051"] = false,
 ["288613"] = false,
+["106951"] = false,
 ["391528"] = false,
 ["359844"] = false,
 ["265187"] = false,
@@ -125,17 +129,14 @@ OmniCDDB = {
 ["offsetY"] = 36,
 ["anchorMore"] = "BOTTOMLEFT",
 },
+["frame"] = {
+["cc"] = 2,
+},
 ["priority"] = {
 ["consumable"] = 100,
 },
-["manualPos"] = {
-[5] = {
-["y"] = 384.2399914115667,
-["x"] = 921.3600379997479,
-},
-},
-["frame"] = {
-["cc"] = 2,
+["spellGlow"] = {
+["*"] = false,
 },
 },
 ["visibility"] = {
