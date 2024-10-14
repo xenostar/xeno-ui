@@ -12,7 +12,7 @@ VER 3 0000000000000030 "Readycheck" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
 /readycheck
 END
 VER 3 0000000000000038 "RXPTargeting" "Ability_eyeoftheowl"
-/targetexact Moira Thaurissan
+/targetexact Kex
 /targetlasttarget [dead]
 END
 VER 3 0000000000000022 "Untarget" "136190"

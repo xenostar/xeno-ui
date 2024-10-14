@@ -17,6 +17,8 @@ BigWigs3DB = {
 },
 ["BigWigs_Plugins_Statistics"] = {
 },
+["BigWigs_Bosses_Voidstone Monstrosity"] = {
+},
 ["BigWigs_Plugins_Countdown"] = {
 ["profiles"] = {
 ["Default"] = {
@@ -46,21 +48,21 @@ BigWigs3DB = {
 ["Default"] = {
 ["iconCooldownEdge"] = false,
 ["textFontName"] = "Expressway",
-["iconGrowDirectionStart"] = "RIGHT",
 ["iconOffsetX"] = 3,
-["iconSpacing"] = 0,
+["iconGrowDirectionStart"] = "RIGHT",
 ["iconFontName"] = "Expressway",
+["iconSpacing"] = 0,
 ["iconGrowDirection"] = "RIGHT",
 },
 ["XenoUI"] = {
 ["iconFontName"] = "Expressway",
-["iconCooldownEdge"] = false,
-["textFontName"] = "Expressway",
 ["iconHeight"] = 12,
+["textFontName"] = "Expressway",
+["iconSpacing"] = 0,
+["iconCooldownEdge"] = false,
+["iconAutoScale"] = false,
 ["iconOffsetX"] = 5,
 ["iconExpireGlow"] = false,
-["iconAutoScale"] = false,
-["iconSpacing"] = 0,
 },
 },
 },
@@ -72,43 +74,43 @@ BigWigs3DB = {
 ["growup"] = true,
 ["fontName"] = "Expressway",
 ["expHeight"] = 10,
-["texture"] = "ElvUI Blank",
-["emphasizeGrowup"] = true,
-["normalWidth"] = 247,
-["spacing"] = 15,
-["expPosition"] = {
-nil,
-nil,
--140,
-355,
-},
-["normalHeight"] = 10,
-["expWidth"] = 247,
 ["normalPosition"] = {
 nil,
 nil,
 -389,
 356,
 },
+["emphasizeGrowup"] = true,
+["spacing"] = 15,
+["expWidth"] = 247,
+["normalHeight"] = 10,
+["expPosition"] = {
+nil,
+nil,
+-140,
+355,
+},
+["normalWidth"] = 247,
+["texture"] = "ElvUI Blank",
 },
 ["XenoUI"] = {
+["fontSize"] = 13,
+["visibleBarLimit"] = 15,
+["emphasizeGrowup"] = true,
+["expWidth"] = 247,
+["spacing"] = 4,
+["texture"] = "ElvUI Blank",
 ["barStyle"] = "ElvUI",
 ["normalWidth"] = 247,
-["visibleBarLimit"] = 15,
 ["growup"] = true,
 ["normalHeight"] = 20,
-["texture"] = "ElvUI Blank",
-["fontSize"] = 13,
-["emphasizeGrowup"] = true,
+["fontName"] = "Expressway",
 ["expPosition"] = {
 nil,
 nil,
 -139,
 361,
 },
-["spacing"] = 4,
-["fontName"] = "Expressway",
-["expWidth"] = 247,
 ["emphasize"] = false,
 ["normalPosition"] = {
 nil,
@@ -119,13 +121,15 @@ nil,
 },
 },
 },
-["LibDualSpec-1.0"] = {
+["BigWigs_Bosses_The Rookery Trash"] = {
+},
+["BigWigs_Plugins_AutoReply"] = {
+},
+["BigWigs_Bosses_Kyrioss"] = {
+},
+["BigWigs_Bosses_Stormguard Gorren"] = {
 },
 ["BigWigs_Plugins_Raid Icons"] = {
-},
-["BigWigs_Plugins_InfoBox"] = {
-},
-["BigWigs_Plugins_Proximity"] = {
 },
 ["BigWigs_Plugins_Messages"] = {
 ["profiles"] = {
@@ -134,14 +138,18 @@ nil,
 ["emphFontName"] = "Expressway",
 },
 ["XenoUI"] = {
-["fontName"] = "Expressway",
 ["emphFontName"] = "Expressway",
+["fontName"] = "Expressway",
 },
 },
+},
+["BigWigs_Plugins_Proximity"] = {
+},
+["BigWigs_Plugins_InfoBox"] = {
 },
 ["BigWigs_Plugins_Pull"] = {
 },
-["BigWigs_Plugins_AutoReply"] = {
+["LibDualSpec-1.0"] = {
 },
 },
 ["profileKeys"] = {
