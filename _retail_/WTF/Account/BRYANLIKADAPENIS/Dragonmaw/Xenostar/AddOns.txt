@@ -20,9 +20,9 @@ WeakAurasArchive: enabled
 WeakAurasOptions: disabled
 WeakAurasModelPaths: disabled
 WeakAurasTemplates: disabled
-RXPGuides: enabled
+RXPGuides: disabled
 ElvUI_Libraries: enabled
-WorldQuestTracker: enabled
+WorldQuestTracker: disabled
 AdvancedInterfaceOptions: disabled
 Details_Vanguard: disabled
 Details_TinyThreat: disabled
@@ -77,3 +77,5 @@ RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 RaiderIO_DB_US_R: disabled
 RaiderIO_DB_US_F: disabled
+RaiderIO_DB_US_M: disabled
+RaiderIO: disabled

@@ -4,3 +4,9 @@ VER 3 0100000000000001 "Judgement" "134400"
 /use 13
 /use 14
 END
+VER 3 0100000000000002 "Wake of Ashes" "134400"
+#showtooltip
+/use Wake of Ashes
+/use 13
+/use 14
+END

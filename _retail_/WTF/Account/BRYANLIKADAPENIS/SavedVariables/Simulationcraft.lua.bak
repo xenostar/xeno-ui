@@ -6,11 +6,11 @@ SimulationCraftDB = {
 },
 ["profiles"] = {
 ["Calisto - Dragonmaw"] = {
-["frame"] = {
-["ofsx"] = 0.0001239776756847277,
-},
 ["minimap"] = {
 ["hide"] = true,
+},
+["frame"] = {
+["ofsx"] = 0.0001239776756847277,
 },
 },
 ["Xenostar - Dragonmaw"] = {

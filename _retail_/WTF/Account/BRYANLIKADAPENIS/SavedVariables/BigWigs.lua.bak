@@ -11,13 +11,11 @@ BigWigs3DB = {
 },
 },
 },
-["BigWigs_Plugins_BossBlock"] = {
+["LibDualSpec-1.0"] = {
 },
 ["BigWigs_Plugins_Sounds"] = {
 },
-["BigWigs_Plugins_Statistics"] = {
-},
-["BigWigs_Bosses_Voidstone Monstrosity"] = {
+["BigWigs_Plugins_AutoReply"] = {
 },
 ["BigWigs_Plugins_Countdown"] = {
 ["profiles"] = {
@@ -55,14 +53,14 @@ BigWigs3DB = {
 ["iconGrowDirection"] = "RIGHT",
 },
 ["XenoUI"] = {
-["iconFontName"] = "Expressway",
-["iconHeight"] = 12,
-["textFontName"] = "Expressway",
 ["iconSpacing"] = 0,
 ["iconCooldownEdge"] = false,
-["iconAutoScale"] = false,
-["iconOffsetX"] = 5,
+["textFontName"] = "Expressway",
+["iconHeight"] = 12,
+["iconOffsetX"] = 4,
 ["iconExpireGlow"] = false,
+["iconAutoScale"] = false,
+["iconFontName"] = "Expressway",
 },
 },
 },
@@ -81,8 +79,8 @@ nil,
 356,
 },
 ["emphasizeGrowup"] = true,
-["spacing"] = 15,
 ["expWidth"] = 247,
+["spacing"] = 15,
 ["normalHeight"] = 10,
 ["expPosition"] = {
 nil,
@@ -94,23 +92,23 @@ nil,
 ["texture"] = "ElvUI Blank",
 },
 ["XenoUI"] = {
+["barStyle"] = "ElvUI",
 ["fontSize"] = 13,
 ["visibleBarLimit"] = 15,
-["emphasizeGrowup"] = true,
-["expWidth"] = 247,
-["spacing"] = 4,
-["texture"] = "ElvUI Blank",
-["barStyle"] = "ElvUI",
-["normalWidth"] = 247,
 ["growup"] = true,
-["normalHeight"] = 20,
-["fontName"] = "Expressway",
 ["expPosition"] = {
 nil,
 nil,
 -139,
 361,
 },
+["texture"] = "ElvUI Blank",
+["normalWidth"] = 247,
+["emphasizeGrowup"] = true,
+["normalHeight"] = 20,
+["expWidth"] = 247,
+["fontName"] = "Expressway",
+["spacing"] = 4,
 ["emphasize"] = false,
 ["normalPosition"] = {
 nil,
@@ -121,15 +119,11 @@ nil,
 },
 },
 },
-["BigWigs_Bosses_The Rookery Trash"] = {
+["BigWigs_Plugins_BossBlock"] = {
 },
-["BigWigs_Plugins_AutoReply"] = {
+["BigWigs_Plugins_Statistics"] = {
 },
-["BigWigs_Bosses_Kyrioss"] = {
-},
-["BigWigs_Bosses_Stormguard Gorren"] = {
-},
-["BigWigs_Plugins_Raid Icons"] = {
+["BigWigs_Plugins_Proximity"] = {
 },
 ["BigWigs_Plugins_Messages"] = {
 ["profiles"] = {
@@ -138,18 +132,16 @@ nil,
 ["emphFontName"] = "Expressway",
 },
 ["XenoUI"] = {
-["emphFontName"] = "Expressway",
 ["fontName"] = "Expressway",
+["emphFontName"] = "Expressway",
 },
 },
 },
-["BigWigs_Plugins_Proximity"] = {
-},
-["BigWigs_Plugins_InfoBox"] = {
+["BigWigs_Plugins_Raid Icons"] = {
 },
 ["BigWigs_Plugins_Pull"] = {
 },
-["LibDualSpec-1.0"] = {
+["BigWigs_Plugins_InfoBox"] = {
 },
 },
 ["profileKeys"] = {
