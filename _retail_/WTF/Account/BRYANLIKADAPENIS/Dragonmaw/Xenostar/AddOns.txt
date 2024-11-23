@@ -14,10 +14,10 @@ ElvUI_VisualAuraTimers: disabled
 ElvUI_SecondsToBuff: disabled
 ElvUI_BuffHighlight: disabled
 kExtraBossFrames: disabled
-ElvUI_Options: disabled
+ElvUI_Options: enabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
-WeakAurasOptions: disabled
+WeakAurasOptions: enabled
 WeakAurasModelPaths: disabled
 WeakAurasTemplates: disabled
 RXPGuides: disabled
@@ -36,7 +36,7 @@ DialogueUI: disabled
 Pawn: disabled
 Details: enabled
 Simulationcraft: enabled
-xCT+: enabled
+xCT+: disabled
 OmniCD: enabled
 Blizzard_CUFProfiles: enabled
 BigWigs_Core: enabled
@@ -79,3 +79,5 @@ RaiderIO_DB_US_R: disabled
 RaiderIO_DB_US_F: disabled
 RaiderIO_DB_US_M: disabled
 RaiderIO: disabled
+BigWigs_Voice: disabled
+WarpDeplete: enabled

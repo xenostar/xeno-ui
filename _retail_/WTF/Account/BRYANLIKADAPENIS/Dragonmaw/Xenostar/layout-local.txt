@@ -1,11 +1,4 @@
 Version: 1
-Frame: RXPFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 24
-Y: -52
-W: 266
-H: 28
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -20,10 +13,3 @@ X: 68
 Y: -42
 W: 261
 H: 590
-Frame: RXPItemFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 289
-Y: -29
-W: 73
-H: 40

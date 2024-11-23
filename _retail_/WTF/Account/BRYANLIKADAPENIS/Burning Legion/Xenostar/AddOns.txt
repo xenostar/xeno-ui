@@ -1,7 +1,7 @@
-WeakAurasOptions: disabled
+WeakAurasOptions: enabled
 WorldQuestTracker: disabled
 WeakAurasArchive: enabled
-ElvUI_Options: disabled
+ElvUI_Options: enabled
 ElvUI_Libraries: enabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
@@ -38,3 +38,12 @@ RaiderIO_DB_TW_M: disabled
 RaiderIO_DB_KR_M: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_US_M: disabled
+LittleWigs_BattleForAzeroth: enabled
+LittleWigs_Shadowlands: enabled
+LittleWigs_Cataclysm: enabled
+BigWigs_Voice: disabled
+BigWigs_KhazAlgar: enabled
+LittleWigs_Classic: enabled
+WarpDeplete: enabled
+xCT+: disabled
+LittleWigs_BurningCrusade: enabled

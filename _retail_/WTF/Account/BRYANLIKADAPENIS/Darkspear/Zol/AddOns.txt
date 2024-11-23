@@ -19,7 +19,7 @@ Details_Vanguard: disabled
 DialogueUI: disabled
 ElvUI: enabled
 ElvUI_Libraries: enabled
-ElvUI_Options: disabled
+ElvUI_Options: enabled
 !KMediaTags: enabled
 LittleWigs: enabled
 LittleWigs_BattleForAzeroth: enabled
@@ -53,10 +53,10 @@ Simulationcraft: enabled
 WeakAuras: enabled
 WeakAurasArchive: enabled
 WeakAurasModelPaths: disabled
-WeakAurasOptions: disabled
+WeakAurasOptions: enabled
 WeakAurasTemplates: disabled
 WorldQuestTracker: disabled
-xCT+: enabled
+xCT+: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 ElvUI_AuraBarsMovers: disabled
@@ -75,3 +75,5 @@ ElvUI_BuffHighlight: disabled
 kExtraBossFrames: disabled
 WeakAurasCompanion: enabled
 Blizzard_CombatText: enabled
+BigWigs_Voice: disabled
+WarpDeplete: enabled

@@ -96,7 +96,6 @@ OmniCDDB = {
 ["365350"] = false,
 ["102543"] = false,
 ["360952"] = false,
-["360194"] = false,
 ["50334"] = false,
 ["385627"] = false,
 ["102560"] = false,
@@ -108,6 +107,7 @@ OmniCDDB = {
 ["275699"] = false,
 ["391109"] = false,
 ["114051"] = false,
+["360194"] = false,
 ["288613"] = false,
 ["106951"] = false,
 ["391528"] = false,
@@ -140,7 +140,6 @@ OmniCDDB = {
 },
 },
 ["visibility"] = {
-["scenario"] = true,
 ["arena"] = false,
 },
 ["scenarioZoneSetting"] = "party",

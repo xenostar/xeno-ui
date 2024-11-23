@@ -11,11 +11,41 @@ BigWigs3DB = {
 },
 },
 },
-["LibDualSpec-1.0"] = {
+["BigWigs_Plugins_BossBlock"] = {
 },
 ["BigWigs_Plugins_Sounds"] = {
 },
-["BigWigs_Plugins_AutoReply"] = {
+["BigWigs_Plugins_Statistics"] = {
+},
+["BigWigs_Plugins_Nameplates"] = {
+["profiles"] = {
+["Default"] = {
+["iconCooldownEdge"] = false,
+["textFontName"] = "Expressway",
+["iconGrowDirectionStart"] = "RIGHT",
+["iconOffsetX"] = 3,
+["iconSpacing"] = 0,
+["iconFontName"] = "Expressway",
+["iconGrowDirection"] = "RIGHT",
+},
+["XenoUI"] = {
+["iconOffsetX"] = 4,
+["iconCooldownEdge"] = false,
+["textFontName"] = "Expressway",
+["iconHeight"] = 12,
+["iconSpacing"] = 0,
+["iconExpireGlow"] = false,
+["iconAutoScale"] = false,
+["iconFontName"] = "Expressway",
+},
+},
+},
+["BigWigs_Bosses_Orator Krix'vizk"] = {
+["profiles"] = {
+["XenoUI"] = {
+[434722] = 4178167,
+},
+},
 },
 ["BigWigs_Plugins_Countdown"] = {
 ["profiles"] = {
@@ -41,28 +71,7 @@ BigWigs3DB = {
 },
 ["BigWigs_Plugins_Wipe"] = {
 },
-["BigWigs_Plugins_Nameplates"] = {
-["profiles"] = {
-["Default"] = {
-["iconCooldownEdge"] = false,
-["textFontName"] = "Expressway",
-["iconGrowDirectionStart"] = "RIGHT",
-["iconOffsetX"] = 3,
-["iconSpacing"] = 0,
-["iconFontName"] = "Expressway",
-["iconGrowDirection"] = "RIGHT",
-},
-["XenoUI"] = {
-["iconFontName"] = "Expressway",
-["iconCooldownEdge"] = false,
-["textFontName"] = "Expressway",
-["iconHeight"] = 12,
-["iconSpacing"] = 0,
-["iconExpireGlow"] = false,
-["iconAutoScale"] = false,
-["iconOffsetX"] = 4,
-},
-},
+["BigWigs_Plugins_InfoBox"] = {
 },
 ["BigWigs_Plugins_Bars"] = {
 ["profiles"] = {
@@ -92,16 +101,11 @@ nil,
 },
 },
 ["XenoUI"] = {
-["barStyle"] = "ElvUI",
-["fontSize"] = 13,
-["visibleBarLimit"] = 15,
+["normalWidth"] = 247,
 ["growup"] = true,
-["expPosition"] = {
-nil,
-nil,
--139,
-361,
-},
+["fontName"] = "Expressway",
+["emphasizeGrowup"] = true,
+["expWidth"] = 247,
 ["normalPosition"] = {
 nil,
 nil,
@@ -109,23 +113,24 @@ nil,
 361,
 },
 ["emphasize"] = false,
-["emphasizeGrowup"] = true,
-["spacing"] = 4,
-["expWidth"] = 247,
-["fontName"] = "Expressway",
-["normalHeight"] = 20,
-["normalWidth"] = 247,
+["expPosition"] = {
+nil,
+nil,
+-139,
+361,
+},
 ["texture"] = "ElvUI Blank",
 },
 },
 },
-["BigWigs_Plugins_InfoBox"] = {
+["BigWigs_Bosses_Mistcaller"] = {
+["profiles"] = {
+["XenoUI"] = {
+[321828] = 4178167,
 },
-["BigWigs_Plugins_Statistics"] = {
 },
-["BigWigs_Plugins_Raid Icons"] = {
 },
-["BigWigs_Plugins_Proximity"] = {
+["LibDualSpec-1.0"] = {
 },
 ["BigWigs_Plugins_Messages"] = {
 ["profiles"] = {
@@ -139,9 +144,13 @@ nil,
 },
 },
 },
-["BigWigs_Plugins_Pull"] = {
+["BigWigs_Plugins_Raid Icons"] = {
 },
-["BigWigs_Plugins_BossBlock"] = {
+["BigWigs_Plugins_AutoReply"] = {
+},
+["BigWigs_Plugins_Proximity"] = {
+},
+["BigWigs_Plugins_Pull"] = {
 },
 },
 ["profileKeys"] = {
